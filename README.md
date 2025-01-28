@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **C,MERN, Python**
 
-- 👨‍💻 All of my projects are available at [https://arsalan0786.github.io/Portfolio/first.html](https://arsalan0786.github.io/Portfolio/first.html)
+- 👨‍💻 All of my projects are available at [here](https://arsalan0786.github.io/Portfolio/first.html)
 
-- 📝 I regularly write articles on [https://medium.com/@sheikharsalan8146](https://medium.com/@sheikharsalan8146)
+- 📝 I regularly write articles on [my blog](https://medium.com/@sheikharsalan8146)
 
 - 📫 How to reach me **sheikharsalan8146@gmail.com**
 
